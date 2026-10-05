@@ -1,7 +1,7 @@
 """
-Programa: Cálculo del área de un rectángulo 
+Programa: Cálculo del área de un rectángulo.
 Autor: Andretti Soto
-Fecha: 04 de Octubre de 2026
+Fecha: 04 de Octubre de 2026.
 Descripción: Calcula el área de un rectángulo dado su base y altura.
 """
 
